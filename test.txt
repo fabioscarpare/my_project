@@ -2,4 +2,4 @@ Test
 
 import pandas as pd
 
-dat = pd.read_csv('data/gapminder_gdp_europ.csv')
+data = pd.read_csv('data/gapminder_gdp_oceania.csv')
